@@ -17,4 +17,4 @@ submit.onclick = function() {
     } else {
     main.innerHTML = '<p style="font-size:24px",>Thank you for your message!</p>';
     }
-}
+};
